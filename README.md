@@ -36,13 +36,16 @@ This dashboard empowers HR leaders to:
 📁 `Snapshots/` — Dashboard visuals and screenshots  
 
 ---
+## 
+# 🖥️ Dashboard Preview
+<img width="1109" height="557" alt="image" src="https://github.com/user-attachments/assets/14a6bd72-a3bc-4fd2-af23-74c4db4cd4f5" />
 
 ## 👩‍💻 About the Author  
 **Ankita Choubey**  
 _Data Analyst | Power BI | Excel | SQL | Python_  
 
 💬 Passionate about transforming data into actionable insights  
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/ankita-c-/)
+🔗 [LinkedIn]( https://www.linkedin.com/in/ankita-c-4a1581212) | [GitHub](https://github.com/AnkitaChoubey/AnkitaChoubey)
 
 ---
 
